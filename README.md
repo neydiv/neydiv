@@ -40,9 +40,7 @@
 
 ###
 
-<br clear="both">
 
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/szczesny_29">
